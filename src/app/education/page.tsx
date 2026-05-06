@@ -23,7 +23,7 @@ export default function EducationPage() {
               at <strong>Deoghar</strong> has been running since 2012.
             </p>
             <p className="text-apple-gray-600 text-lg leading-relaxed">
-              As of now, children from over <strong>thirteen nearby villages</strong> are receiving free
+              As of now, children from over <strong>thirteen villages</strong> are receiving free
               education, books, notebooks, pens, pencils, dress materials, and food — ensuring no child is
               left behind due to poverty.
             </p>
